@@ -7,8 +7,8 @@
 <br>
 
 
-- 🌱 Me Gusta Construir Interfaces Visualmente Atractivas.
-- 🛠 Me Gusta Reparar Cosas, Tambien Conozco De Electronica!.
+- 🌱 Me Encanta Construir Interfaces Visualmente Atractivas.
+- 🛠 Reparo Cosas, Tambien Conozco De Electronica !.
 - :technologist: ` No Hablar De Ideas, Hablar De Problemas `.
 - :nerd_face: Me Gusta Aprender `Cosas Nuevas`.
 - :thinking: Tengo Un Canal De Youtube Llamado: `From Computing`.
