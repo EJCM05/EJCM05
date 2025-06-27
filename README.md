@@ -4,9 +4,10 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br>
+<br/>
 
-- Hola, soy Eber.
+
+# Hola, soy Eber.
 - Soluciones backend funcionales, seguras y eficientes usando Python | Django | Fastapi.
 - Fan de los entornos ligeros en Linux, personalizados para desarrollo productivo.
 - Me gusta diseñar sistemas con lo necesario: sin adornos, sin exceso.
@@ -15,7 +16,6 @@
 - Contactame Por [Instagram]() 🏆.
 - 🛠 Reparo Cosas, Tambien Conozco De Electronica !.
 
---------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Mis Habilidades
 ### En qué estoy trabajando:
@@ -33,7 +33,7 @@
 &emsp;
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### Herramientas:
 &emsp;
@@ -56,7 +56,7 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-# Aunque no me dedico al UI/UX Tengo conocimientos robustos en Frontend Y Diseño 
+## No me dedico al UI/UX. Pero Tengo conocimientos robustos en Frontend Y Diseño. 
 
 ### Desarrollo De FrontEnd:
 &emsp;
