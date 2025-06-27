@@ -7,12 +7,14 @@
 <br>
 
 
-- 🌱 Me Encanta Construir Interfaces Visualmente Atractivas.
-- 🛠 Reparo Cosas, Tambien Conozco De Electronica !.
+- 🌱 # 👋 Hola, soy Eber.
+- 🧠 Soluciones backend funcionales, seguras y eficientes usando Python y Django | Fastapi.
+- 🐧 Fan de los entornos ligeros en Linux, personalizados para desarrollo productivo.
+- 📦 Me gusta diseñar sistemas con lo necesario: sin adornos, sin exceso.
 - :technologist: ` No Hablar De Ideas, Hablar De Problemas `.
-- :nerd_face: Me Gusta Aprender `Cosas Nuevas`.
 - :thinking: Tengo Un Canal De Youtube Llamado: `From Computing`.
 - Contactame Por [Instagram]() 🏆.
+- 🛠 Reparo Cosas, Tambien Conozco De Electronica !.
 <br>
 
 
