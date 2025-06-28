@@ -1,82 +1,81 @@
-<img src="https://i.postimg.cc/SK2VV1jK/banner.jpg">
+# 👋 ¡Hola! Soy Eber Colmenares
+### 🚀 Desarrollador Web Backend | Python · Django · PostgreSQL · Linux Entusiasta
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre Mi
+Soy un desarrollador backend, me encargo de construir **aplicaciones web robustas, modulares y enfocadas en producción**. Mi expertise se centra en **Python**, **Django** (incluyendo Django REST Framework), **PostgreSQL** y las **Buenas Practicas de seguridad**. Me concentro en Escribir código limpio, eficiente y escalable para garantizar despliegues seguros documentando cada paso del proceso de desarrollo.
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+Mi enfoque es crear **soluciones funcionales, seguras y escalables**, siempre buscando la simplicidad y la eficiencia en el diseño de sistemas.
+---
 
-<br/>
+## 🛠️ Habilidades Técnicas
 
+### 💻 Stack Principal
 
-# Hola, soy Eber.
-- Soluciones backend funcionales, seguras y eficientes usando Python | Django | Fastapi.
-- Fan de los entornos ligeros en Linux, personalizados para desarrollo productivo.
-- Me gusta diseñar sistemas con lo necesario: sin adornos, sin exceso.
-- ` No Hablar De Ideas, Hablar De Problemas `.
-- Tengo Un Canal De Youtube Llamado: `From Computing`.
-- Contactame Por [Instagram]() 🏆.
-- 🛠 Reparo Cosas, Tambien Conozco De Electronica !.
+* **Lenguajes:** Python, JavaScript, HTML, CSS, Bash
+* **Frameworks:** Django, Django REST Framework (DRF), FastAPI, Bootstrap
+* **Bases de Datos:** PostgreSQL, SQLite
+* **Despliegue** Render, GitHub Pages
+* **Herramientas:** Git, GitHub, VS Code, Trello, NPM
 
+### ✨ Conocimientos en Frontend
+Aunque mi enfoque principal es el desarrollo backend, la funcionalidad y la seguridad de las aplicaciones web, tengo experiencia práctica con tecnologías frontend modernas como:
 
-## 🛠️ Mis Habilidades
-### En qué estoy trabajando:
-- API REST robustas con Django Rest Framework | FastApi
-- Automatización de entornos con enfoque minimalista.
-- Aplicaciones Web Monoliticas con Django.
-- Integración de buenas prácticas.
-  
-### Lenguajes De Programacion:
-&emsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+* **Frameworks/Librerías:** React, Next.js
+* **Herramientas de Build:** Vite
+   
+### ⚙️ Habilidades Clave
+* Diseño y desarrollo de **APIs RESTful** (robustas y performantes).
+* Desarrollo de **aplicaciones web monolíticas** con Django.
+* **Modelado de bases de datos** relacionales.
+* Automatización de entornos y **optimización de Linux** para desarrollo.
+* Implementación de **buenas prácticas** de código y desarrollo.
+* **Documentación técnica** profesional.
+* Conceptos de **seguridad básica** (autenticación JWT, URLS.
+* **Despliegue continuo** (CI/CD).
 
-### Desarrollo De BackEnd:
-&emsp;
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+### 🌱 Actualmente explorando
+* Autenticación **JWT** y permisos personalizados.
+* **Pruebas automatizadas** con `pytest` y `coverage`.
+* **Scripting de seguridad** (con Nmap para fines educativos).
+* **Patrones de diseño** en backend.
+* **Seguridad** en el desarrollo de software.
+* **Docker** para contenedores.
+---
 
-### Herramientas:
-&emsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+## 🚀 Proyectos Destacados
 
-### Frameworks & Servicios: 
-&emsp;
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🔥 [Sistema de Gestión para Bomberos](https://cuerpobomberossc.com)
+Aplicación modular completa para la gestión de personal, emergencias y vehículos. Desplegada en **Render con PostgreSQL**, con una estructura por apps, manejo de variables de entorno (`.env`) y configuración segura.
 
-### Bases De Datos:
-&emsp;
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🧪 [API CRUD con Django REST Framework](https://github.com/EJCM05/DRF-API-CRUD-DJANGO)
+API RESTful que implementa vistas basadas en modelos (`ModelViewSet`) y routers automáticos. Cuenta con documentación clara y está diseñada para facilitar la integración de autenticación JWT y pruebas.
 
+### 🖥️ [Mi Repositorio Profesional](https://github.com/EJCM05/EJCM05)
+Mi espacio profesional en GitHub, donde presento mi stack, proyectos destacados y formas de contacto.
 
-## No me dedico al UI/UX. Pero Tengo conocimientos robustos en Frontend Y Diseño. 
+---
 
-### Desarrollo De FrontEnd:
-&emsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+## 📚 Formación & Intereses
 
-### Diseño:
-&emsp;
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+* **TSU en Informática** (UNIVERSIDAD POLITECNICA TERRITORIAL AGROINDUSTRIAL DEL ESTADO TACHIRA) · (2024)
 
------------------------------------------------------------------------------------------------------------------------------------------------
+* **Intereses:**
+    * Optimización de Linux para entornos de desarrollo web.
+    * Diseño y construcción de APIs REST de alto rendimiento y seguras.
+    * Proyectos técnicos con impacto social o educativo.
+    * Roles remotos y oportunidades freelance en desarrollo backend.
+    * `"No Hablar De Ideas, Hablar De Problemas"` - Mi filosofía de desarrollo.
 
-### EN PROCESO DE APRENDIZAJE:
-- Ciberseguridad
-- Patrones De diseño
-- Seguridad en Desarrollo
+---
 
-------------------------------------------------------------------------------------------------------------------------------------------------
+## 📬 Contacto y Oportunidades
+
+Estoy activamente buscando oportunidades para contribuir en **proyectos reales como desarrollador backend** (remoto o freelance). Si mi perfil encaja con lo que buscas o simplemente quieres conversar sobre posibles colaboraciones:
+
+* **Email:** [Example](mailto:tu_email@example.com)
+* **GitHub:** [github.com/EJCM05](https://github.com/EJCM05)
+* **YouTube:** Tengo un canal llamado `From Computing`.
+* **Instagram:** [https://www.instagram.com/eber_colmenares?igsh=bHBxbTg2c2g0djVp](Instagram)
+
+---
+
+¡Gracias por visitar mi perfil!
