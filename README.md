@@ -14,7 +14,7 @@ Mi enfoque es crear **soluciones funcionales, seguras y escalables**, siempre bu
 * **Frameworks:** Django, Django REST Framework (DRF), FastAPI, Bootstrap
 * **Bases de Datos:** PostgreSQL, SQLite
 * **Despliegue** Render, GitHub Pages
-* **Herramientas:** Git, GitHub, VS Code, Trello, NPM
+* **Herramientas:** Git, GitHub, VS Code, Trello, NPM, **Entornos Virtuales (venv/virtualenv)**
 
 ### ✨ Conocimientos en Frontend
 Aunque mi enfoque principal es el desarrollo backend, la funcionalidad y la seguridad de las aplicaciones web, tengo experiencia práctica con tecnologías frontend modernas como:
