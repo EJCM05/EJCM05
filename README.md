@@ -63,6 +63,7 @@ Mi espacio profesional en GitHub, donde presento mi stack, proyectos destacados 
     * Proyectos técnicos con impacto social o educativo.
     * Roles remotos y oportunidades freelance en desarrollo backend.
     * `"No Hablar De Ideas, Hablar De Problemas"` - Mi filosofía de desarrollo.
+    * **Electrónica y Automatización:** Prototipado con Arduino, microcontroladores, Electricidad, Electronica.
 
 ---
 
