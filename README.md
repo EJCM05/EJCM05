@@ -1,5 +1,5 @@
-# 👋 ¡Hola! Soy Eber Colmenares
-### 🚀 Desarrollador Web Backend | Python · Django · PostgreSQL · Linux Entusiasta
+# 💻 ¡Hola! Soy Eber Colmenares
+### Desarrollador Web Backend | Python · Django · PostgreSQL · Linux Entusiasta
 
 Soy un desarrollador backend, me encargo de construir **aplicaciones web robustas, modulares y enfocadas en producción**. Mi expertise se centra en **Python**, **Django** (incluyendo Django REST Framework), **PostgreSQL** y las **Buenas Practicas de seguridad**. Me concentro en Escribir código limpio, eficiente y escalable para garantizar despliegues seguros documentando cada paso del proceso de desarrollo.
 
@@ -33,11 +33,10 @@ Aunque mi enfoque principal es el desarrollo backend, la funcionalidad y la segu
 * **Despliegue continuo** (CI/CD).
 
 ### 🌱 Actualmente explorando
-* Autenticación **JWT** y permisos personalizados.
 * **Pruebas automatizadas** con `pytest` y `coverage`.
 * **Scripting de seguridad** (con Nmap para fines educativos).
 * **Patrones de diseño** en backend.
-* **Seguridad** en el desarrollo de software.
+* Conceptos de **seguridad básica** (autenticación JWT, protección de URLs, OWASP).
 * **Docker** para contenedores.
 ---
 
