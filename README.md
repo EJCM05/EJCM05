@@ -42,10 +42,13 @@ Aunque mi enfoque principal es el desarrollo backend, la funcionalidad y la segu
 
 ## 🚀 Proyectos Destacados
 
-### 🔥 [Sistema de Gestión para Bomberos](https://cuerpobomberossc.com)
+### [Sistema de Gestión para Bomberos](https://cuerpobomberossc.com)
 Aplicación modular completa para la gestión de personal, emergencias y vehículos. Desplegada en **Render con PostgreSQL**, con una estructura por apps, manejo de variables de entorno (`.env`) y configuración segura.
 
-### 🧪 [API CRUD con Django REST Framework](https://github.com/EJCM05/DRF-API-CRUD-DJANGO)
+### [Blog Basico con Django](https://github.com/EJCM05/Blog-Spot)
+Un Blog de interfaz amigable creado con la intencion de profundizar los CBVs con Django, usando la autenticacion (Auth), formularios basadosen modelos y gestion de permisos a nivel basico. Y el uso de (Bootstrap) para el frontend y practicas recurrentes de entornos virtuales. Todo esto cumpliendo con las operaciones CRUD Basicas.  
+
+### [API CRUD con Django REST Framework](https://github.com/EJCM05/DRF-API-CRUD-DJANGO)
 API RESTful que implementa vistas basadas en modelos (`ModelViewSet`) y routers automáticos. Cuenta con documentación clara y está diseñada para facilitar la integración de autenticación JWT y pruebas.
 
 ### 🖥️ [Mi Repositorio Profesional](https://github.com/EJCM05/EJCM05)
@@ -64,14 +67,13 @@ Mi espacio profesional en GitHub, donde presento mi stack, proyectos destacados 
     * Roles remotos y oportunidades freelance en desarrollo backend.
     * `"No Hablar De Ideas, Hablar De Problemas"` - Mi filosofía de desarrollo.
     * **Electrónica y Automatización:** Prototipado con Arduino, microcontroladores, Electricidad, Electronica.
-
 ---
 
 ## 📬 Contacto y Oportunidades
 
 Estoy activamente buscando oportunidades para contribuir en **proyectos reales como desarrollador backend** (remoto o freelance). Si mi perfil encaja con lo que buscas o simplemente quieres conversar sobre posibles colaboraciones:
 
-* **Email:** [Example](mailto:tu_email@example.com)
+* **Hotmail:** [Correo](ebercolmenares_11@hotmail.com)
 * **GitHub:** [github.com/EJCM05](https://github.com/EJCM05)
 * **YouTube:** Tengo un canal llamado `From Computing`.
 * **Instagram:** [https://www.instagram.com/eber_colmenares?igsh=bHBxbTg2c2g0djVp](Instagram)
