@@ -1,10 +1,25 @@
 # 💻 ¡Hola! Soy Eber Colmenares
 ### Desarrollador Web Backend | Python · Django · PostgreSQL · Linux Entusiasta
 
-Soy un desarrollador backend, me encargo de construir **aplicaciones web robustas, modulares y enfocadas en producción**. Mi expertise se centra en **Python**, **Django** (incluyendo Django REST Framework), **PostgreSQL** y las **Buenas Practicas de seguridad**. Me concentro en Escribir código limpio, eficiente y escalable para garantizar despliegues seguros documentando cada paso del proceso de desarrollo.
+Soy un desarrollador backend, me encargo de construir **aplicaciones web robustas, modulares y enfocadas en producción**. Mi expertise se centra en **Python**, **Django** (incluyendo Django REST Framework), **PostgreSQL** y las **Buenas Prácticas de seguridad**. Me concentro en escribir código limpio, eficiente y escalable para garantizar despliegues seguros documentando cada paso del proceso de desarrollo.
 
 Mi enfoque es crear **soluciones funcionales, seguras y escalables**, siempre buscando la simplicidad y la eficiencia en el diseño de sistemas.
 ---
+## 🚀 Mi Enfoque y Filosofía
+
+Más allá del código, así es como abordo los proyectos y desafíos:
+
+* **Pensamiento Arquitectónico y Estratégico:** Poseo una habilidad para modelar soluciones, diseñar sistemas robustos y eficientes desde la base de datos hasta la lógica de negocio.
+  
+* **Organización y Metodología:** Aplico principios de **Kanban** y elementos de **Scrum** (como retrospectivas y límites) para gestionar proyectos de forma visual, priorizar eficientemente y asegurar un flujo de trabajo constante y adaptable. Valoro la disciplina y la mejora continua del proceso.
+
+* **Resolución de Problemas y Pragmatismo:** Mi objetivo es siempre encontrar la solución más efectiva y pragmática al problema en cuestión, optimizando la complejidad sin sacrificar la funcionalidad o seguridad.
+
+* **Enfoque Orientado al Valor:** Me concentro en construir funcionalidades que realmente aporten valor al usuario final, con una mentalidad de MVP que asegura entregas rápidas y significativas.
+
+* **Autenticidad y Directividad:** Abordo los desafíos con franqueza y busco la claridad en cada interacción, lo cual considero esencial para una comunicación efectiva y resultados óptimos.
+
+* **Compromiso con la Calidad:** Siempre busco escribir código limpio, documentado y escalable, aplicando buenas prácticas de seguridad y desarrollo.
 
 ## 🛠️ Habilidades Técnicas
 
@@ -26,10 +41,9 @@ Aunque mi enfoque principal es el desarrollo backend, la funcionalidad y la segu
 * Diseño y desarrollo de **APIs RESTful** (robustas y performantes).
 * Desarrollo de **aplicaciones web monolíticas** con Django.
 * **Modelado de bases de datos** relacionales.
-* Automatización de entornos y **optimización de Linux** para desarrollo.
 * Implementación de **buenas prácticas** de código y desarrollo.
-* **Documentación técnica** profesional.
-* Conceptos de **seguridad básica** (autenticación JWT, URLS.
+* **Documentación** Escalable
+* Conceptos de **seguridad básica** (autenticación JWT, URLS).
 * **Despliegue continuo** (CI/CD).
 
 ### 🌱 Actualmente explorando
