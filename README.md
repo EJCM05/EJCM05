@@ -1,9 +1,9 @@
 # 💻 ¡Hola! Soy Eber Colmenares
 ### Desarrollador Web Backend | Python · Django · PostgreSQL · Linux Entusiasta
 
-Soy un desarrollador backend, me encargo de construir **aplicaciones web robustas, modulares y enfocadas en producción**. Mi expertise se centra en **Python**, **Django** (incluyendo Django REST Framework), **PostgreSQL** y las **Buenas Prácticas de seguridad**. Me concentro en escribir código limpio, eficiente y escalable para garantizar despliegues seguros documentando cada paso del proceso de desarrollo.
+Soy un desarrollador backend, me encargo de construir **aplicaciones web robustas, modulares y enfocadas en producción**. Mi expertise se centra en **Python**, **Django** (incluyendo Django REST Framework), **PostgreSQL** y las **Buenas Prácticas de seguridad**. Me concentro en escribir código limpio, eficiente, escalable y ligero. Para garantizar despliegues seguros documentando cada paso del proceso de desarrollo.
 
-Mi enfoque es crear **soluciones funcionales, seguras y escalables**, siempre buscando la simplicidad y la eficiencia en el diseño de sistemas.
+Mi enfoque es crear **soluciones funcionales, seguras, escalables y con Rendimiento**, siempre buscando la simplicidad y la eficiencia en el diseño de sistemas.
 ---
 ## 🚀 Mi Enfoque y Filosofía
 
@@ -19,7 +19,7 @@ Más allá del código, así es como abordo los proyectos y desafíos:
 
 * **Autenticidad y Directividad:** Abordo los desafíos con franqueza y busco la claridad en cada interacción, lo cual considero esencial para una comunicación efectiva y resultados óptimos.
 
-* **Compromiso con la Calidad:** Siempre busco escribir código limpio, documentado y escalable, aplicando buenas prácticas de seguridad y desarrollo.
+* **Compromiso con la Calidad:** Siempre busco escribir código limpio, documentado, escalable y con alto rendimeinto. Aplicando buenas prácticas de seguridad y desarrollo.
 
 ## 🛠️ Habilidades Técnicas
 
@@ -34,7 +34,7 @@ Más allá del código, así es como abordo los proyectos y desafíos:
 ### ✨ Conocimientos en Frontend
 Aunque mi enfoque principal es el desarrollo backend, la funcionalidad y la seguridad de las aplicaciones web, tengo experiencia práctica con tecnologías frontend modernas como:
 
-* **Frameworks/Librerías:** React, Next.js
+* **Frameworks/Librerías:** React
 * **Herramientas de Build:** Vite
    
 ### ⚙️ Habilidades Clave
@@ -52,6 +52,7 @@ Aunque mi enfoque principal es el desarrollo backend, la funcionalidad y la segu
 * **Patrones de diseño** en backend.
 * Conceptos de **seguridad básica** (autenticación JWT, protección de URLs, OWASP).
 * **Docker** para contenedores.
+* **CiberSeguridad** Pruebas y exploit. 
 ---
 
 ## 🚀 Proyectos Destacados
@@ -75,7 +76,7 @@ Mi espacio profesional en GitHub, donde presento mi stack, proyectos destacados 
 * **TSU en Informática** (UNIVERSIDAD POLITECNICA TERRITORIAL AGROINDUSTRIAL DEL ESTADO TACHIRA) · (2024)
 
 * **Intereses:**
-    * Optimización de Linux para entornos de desarrollo web.
+    * Optimización de Linux para mis entornos de desarrollo web.
     * Diseño y construcción de APIs REST de alto rendimiento y seguras.
     * Proyectos técnicos con impacto social o educativo.
     * Roles remotos y oportunidades freelance en desarrollo backend.
