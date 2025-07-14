@@ -66,6 +66,9 @@ Un Blog de interfaz amigable creado con la intencion de profundizar los CBVs con
 ### [API CRUD con Django REST Framework](https://github.com/EJCM05/DRF-API-CRUD-DJANGO)
 API RESTful que implementa vistas basadas en modelos (`ModelViewSet`) y routers automáticos. Cuenta con documentación clara y está diseñada para facilitar la integración de autenticación JWT y pruebas.
 
+### [Aplicacion de Escritorio con Tkinter](https://github.com/EJCM05/ProyectoSocioTecnologico-Trayecto-2.git)
+Una aplicacion de Escritorio Creada para usuarios finales, especificacmente una Institucion Educativa. Este proyecto fue realizado con la intencion de profundizar sobre python, sus fundamento y el patron MVC con la finalidad de presentar el desarrollo a nuestra institucion y obtener la aprobatoria de curso. El proyecto se desarrollo con Tkinter y el patron MVC, posee bases de datos SQLite y tambien se integraron colaboradores al proyecto. No es un proyecto que tenga una solucion plena al mundo real, pero con el aprendi mucho sobre python, bases de datos, modelos y tkinter en especial. (Solo lo exibo por amor al arte y el progreso). 
+
 ### 🖥️ [Mi Repositorio Profesional](https://github.com/EJCM05/EJCM05)
 Mi espacio profesional en GitHub, donde presento mi stack, proyectos destacados y formas de contacto.
 
