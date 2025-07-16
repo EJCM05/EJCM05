@@ -1,73 +1,97 @@
 # 💻 ¡Hola! Soy Eber Colmenares
-### Desarrollador Web Backend | Python · Django · PostgreSQL · Linux Entusiasta
+### Desarrollador Web Backend | Python · Linux Entusiasta
 
-Soy un desarrollador backend, me encargo de construir **aplicaciones web robustas, modulares y enfocadas en producción**. Mi expertise se centra en **Python**, **Django** (incluyendo Django REST Framework), **PostgreSQL** y las **Buenas Prácticas de seguridad**. Me concentro en escribir código limpio, eficiente, escalable y ligero. Para garantizar despliegues seguros documentando cada paso del proceso de desarrollo.
+Soy un desarrollador backend enfocado en construir **aplicaciones web robustas, modulares y orientadas a producción**. Mi experiencia se centra en **Python**, **Django** (incluyendo Django REST Framework), **PostgreSQL** **Flask** **FastApi** y las **Buenas Prácticas de seguridad**. Me concentro en escribir código limpio, eficiente, escalable y ligero, documentando cada paso del proceso para garantizar despliegues seguros.
 
-Mi enfoque es crear **soluciones funcionales, seguras, escalables y con Rendimiento**, siempre buscando la simplicidad y la eficiencia en el diseño de sistemas.
 ---
-## 🚀 Mi Enfoque y Filosofía
+
+## 🔥 Manifiesto Backend · Simplicidad con Propósito
+
+No persigo lo último en tendencias visuales ni las modas del frontend. Mi enfoque es claro: **construir sistemas funcionales, seguros y escalables**, donde la lógica y el rendimiento son lo esencial.
+
+Uso herramientas como **Django**, **FastAPI** y **Flask** para desarrollar cualquier funcionalidad que imagine, sin depender de librerías pesadas ni cadenas de dependencias innecesarias. Prefiero un **sistema liviano que haga bien su trabajo**, antes que una interfaz sobrecargada que confunda al usuario y al servidor.
+
+### Mis principios:
+
+- 🧱 **Backend primero**: Si no tiene una lógica sólida detrás, no importa lo bonito que se vea.
+- 🚀 **Funcionalidad sobre apariencia**: Lo importante es que cumpla su propósito de forma segura, rápida y confiable.
+- 🧘‍♂️ **Minimalismo técnico**: Menos dependencias, más control. Código claro, sin adornos innecesarios.
+- 🔐 **Seguridad pragmática**: JWT, buenas prácticas OWASP, control de accesos y estructura limpia.
+- 🛠️ **Modularidad eficiente**: Cada componente del sistema tiene un propósito claro, sin redundancias.
+- 💡 **Autenticidad profesional**: No sigo modas, sigo principios que funcionan en producción.
+
+> “No hablar de ideas, hablar de problemas” — Mi mantra de desarrollo.
+
+---
+
+## 🚀 Enfoque y Filosofía
 
 Más allá del código, así es como abordo los proyectos y desafíos:
 
-* **Pensamiento Arquitectónico y Estratégico:** Poseo una habilidad para modelar soluciones, diseñar sistemas robustos y eficientes desde la base de datos hasta la lógica de negocio.
-  
-* **Organización y Metodología:** Aplico principios de **Kanban** y elementos de **Scrum** (como retrospectivas y límites) para gestionar proyectos de forma visual, priorizar eficientemente y asegurar un flujo de trabajo constante y adaptable. Valoro la disciplina y la mejora continua del proceso.
+* **Pensamiento Arquitectónico y Estratégico:** Modelado de soluciones desde la base de datos hasta la lógica de negocio.
+* **Organización y Metodología:** Uso de Kanban y elementos de Scrum para mantener un flujo de trabajo adaptable y disciplinado.
+* **Resolución de Problemas y Pragmatismo:** Busco siempre la solución más efectiva, optimizando sin sacrificar funcionalidad ni seguridad.
+* **Enfoque Orientado al Valor:** Desarrollo con mentalidad MVP, entregando funcionalidades que realmente aportan.
+* **Autenticidad y Directividad:** Comunicación clara y decisiones técnicas con propósito.
+* **Compromiso con la Calidad:** Código limpio, documentado, escalable y seguro.
 
-* **Resolución de Problemas y Pragmatismo:** Mi objetivo es siempre encontrar la solución más efectiva y pragmática al problema en cuestión, optimizando la complejidad sin sacrificar la funcionalidad o seguridad.
-
-* **Enfoque Orientado al Valor:** Me concentro en construir funcionalidades que realmente aporten valor al usuario final, con una mentalidad de MVP que asegura entregas rápidas y significativas.
-
-* **Autenticidad y Directividad:** Abordo los desafíos con franqueza y busco la claridad en cada interacción, lo cual considero esencial para una comunicación efectiva y resultados óptimos.
-
-* **Compromiso con la Calidad:** Siempre busco escribir código limpio, documentado, escalable y con alto rendimeinto. Aplicando buenas prácticas de seguridad y desarrollo.
+---
 
 ## 🛠️ Habilidades Técnicas
 
 ### 💻 Stack Principal
 
 * **Lenguajes:** Python, JavaScript, HTML, CSS, Bash
-* **Frameworks:** Django, Django REST Framework (DRF), FastAPI, Bootstrap
+* **Frameworks:** Django, Django REST Framework (DRF), FastAPI, Flask, Bootstrap
 * **Bases de Datos:** PostgreSQL, SQLite
-* **Despliegue** Render, GitHub Pages
-* **Herramientas:** Git, GitHub, VS Code, Trello, NPM, **Entornos Virtuales (venv/virtualenv)**
+* **Despliegue:** Render, GitHub Pages
+* **Herramientas:** Git, GitHub, VS Code, Trello, NPM, venv/virtualenv
 
 ### ✨ Conocimientos en Frontend
-Aunque mi enfoque principal es el desarrollo backend, la funcionalidad y la seguridad de las aplicaciones web, tengo experiencia práctica con tecnologías frontend modernas como:
+
+Aunque mi enfoque principal es el backend, tengo experiencia práctica con:
 
 * **Frameworks/Librerías:** React
 * **Herramientas de Build:** Vite
-   
-### ⚙️ Habilidades Clave
-* Diseño y desarrollo de **APIs RESTful** (robustas y performantes).
-* Desarrollo de **aplicaciones web monolíticas** con Django.
-* **Modelado de bases de datos** relacionales.
-* Implementación de **buenas prácticas** de código y desarrollo.
-* **Documentación** Escalable
-* Conceptos de **seguridad básica** (autenticación JWT, URLS).
+
+---
+
+## ⚙️ Habilidades Clave
+
+* Diseño y desarrollo de **APIs RESTful** robustas y performantes.
+* Desarrollo de **aplicaciones monolíticas** con Django.
+* **Modelado de bases de datos** relacionales con FK y PK.
+* Implementación de **buenas prácticas** de seguridad y desarrollo.
+* **Documentación técnica** clara y escalable.
+* **Autenticación JWT** y protección de rutas.
 * **Despliegue continuo** (CI/CD).
 
-### 🌱 Actualmente explorando
-* **Pruebas automatizadas** con `pytest` y `coverage`.
-* **Scripting de seguridad** (con Nmap para fines educativos).
-* **Patrones de diseño** en backend.
-* Conceptos de **seguridad básica** (autenticación JWT, protección de URLs, OWASP).
-* **Docker** para contenedores.
-* **CiberSeguridad** Pruebas y exploit. 
+---
+
+## 🌱 Actualmente explorando
+
+* Pruebas automatizadas con `pytest` y `coverage`.
+* Scripting de seguridad con Nmap (fines educativos).
+* Patrones de diseño en backend.
+* OWASP y prácticas de auditoría.
+* Docker para contenedores.
+* Ciberseguridad y pruebas de exploit.
+
 ---
 
 ## 🚀 Proyectos Destacados
 
 ### [Sistema de Gestión para Bomberos](https://cuerpobomberossc.com)
-Aplicación modular completa para la gestión de personal, emergencias y vehículos. Desplegada en **Render con PostgreSQL**, con una estructura por apps, manejo de variables de entorno (`.env`) y configuración segura.
+Aplicación modular para gestión de personal, emergencias y vehículos. Desplegada en Render con PostgreSQL, estructura por apps, `.env` y configuración segura.
 
-### [Blog Basico con Django](https://github.com/EJCM05/Blog-Spot)
-Un Blog de interfaz amigable creado con la intencion de profundizar los CBVs con Django, usando la autenticacion (Auth), formularios basadosen modelos y gestion de permisos a nivel basico. Y el uso de (Bootstrap) para el frontend y practicas recurrentes de entornos virtuales. Todo esto cumpliendo con las operaciones CRUD Basicas.  
+### [Blog Básico con Django](https://github.com/EJCM05/Blog-Spot)
+Blog con CBVs, autenticación, formularios basados en modelos, permisos básicos y Bootstrap. CRUD completo y buenas prácticas.
 
 ### [API CRUD con Django REST Framework](https://github.com/EJCM05/DRF-API-CRUD-DJANGO)
-API RESTful que implementa vistas basadas en modelos (`ModelViewSet`) y routers automáticos. Cuenta con documentación clara y está diseñada para facilitar la integración de autenticación JWT y pruebas.
+API RESTful con `ModelViewSet`, routers automáticos, documentación clara y lista para autenticación JWT.
 
-### [Aplicacion de Escritorio con Tkinter](https://github.com/EJCM05/ProyectoSocioTecnologico-Trayecto-2.git)
-Una aplicacion de Escritorio Creada para usuarios finales, especificacmente una Institucion Educativa. Este proyecto fue realizado con la intencion de profundizar sobre python, sus fundamento y el patron MVC con la finalidad de presentar el desarrollo a nuestra institucion y obtener la aprobatoria de curso. El proyecto se desarrollo con Tkinter y el patron MVC, posee bases de datos SQLite y tambien se integraron colaboradores al proyecto. No es un proyecto que tenga una solucion plena al mundo real, pero con el aprendi mucho sobre python, bases de datos, modelos y tkinter en especial. (Solo lo exibo por amor al arte y el progreso). 
+### [Aplicación de Escritorio con Tkinter](https://github.com/EJCM05/ProyectoSocioTecnologico-Trayecto-2.git)
+Aplicación educativa con patrón MVC, SQLite y Tkinter. Proyecto académico con enfoque práctico y colaborativo.
 
 ### 🖥️ [Mi Repositorio Profesional](https://github.com/EJCM05/EJCM05)
 Mi espacio profesional en GitHub, donde presento mi stack, proyectos destacados y formas de contacto.
@@ -76,25 +100,27 @@ Mi espacio profesional en GitHub, donde presento mi stack, proyectos destacados 
 
 ## 📚 Formación & Intereses
 
-* **TSU en Informática** (UNIVERSIDAD POLITECNICA TERRITORIAL AGROINDUSTRIAL DEL ESTADO TACHIRA) · (2024)
+* **TSU en Informática** (UPTAIET Táchira · 2024)
 
-* **Intereses:**
-    * Optimización de Linux para mis entornos de desarrollo web.
-    * Diseño y construcción de APIs REST de alto rendimiento y seguras.
-    * Proyectos técnicos con impacto social o educativo.
-    * Roles remotos y oportunidades freelance en desarrollo backend.
-    * `"No Hablar De Ideas, Hablar De Problemas"` - Mi filosofía de desarrollo.
-    * **Electrónica y Automatización:** Prototipado con Arduino, microcontroladores, Electricidad, Electronica.
+### Intereses:
+
+* Optimización de Linux para desarrollo web.
+* Diseño de APIs REST seguras y eficientes.
+* Proyectos con impacto social o educativo.
+* Roles remotos y freelance en backend.
+* Electrónica y automatización con Arduino.
+* Filosofía de desarrollo: `"No hablar de ideas, hablar de problemas"`.
+
 ---
 
 ## 📬 Contacto y Oportunidades
 
-Estoy activamente buscando oportunidades para contribuir en **proyectos reales como desarrollador backend** (remoto o freelance). Si mi perfil encaja con lo que buscas o simplemente quieres conversar sobre posibles colaboraciones:
+Estoy buscando oportunidades para contribuir como **desarrollador backend** (remoto o freelance). Si mi perfil encaja contigo o quieres colaborar:
 
-* **Hotmail:** [Correo](ebercolmenares_11@hotmail.com)
-* **GitHub:** [github.com/EJCM05](https://github.com/EJCM05)
-* **YouTube:** Tengo un canal llamado `From Computing`.
-* **Instagram:** [https://www.instagram.com/eber_colmenares?igsh=bHBxbTg2c2g0djVp](Instagram)
+* 📧 **Correo:** ebercolmenares_11@hotmail.com  
+* 🐙 **GitHub:** [github.com/EJCM05](https://github.com/EJCM05)  
+* 📺 **YouTube:** Canal `From Computing`  
+* 📷 **Instagram:** [@eber_colmenares](https://www.instagram.com/eber_colmenares?igsh=bHBxbTg2c2g0djVp)
 
 ---
 
