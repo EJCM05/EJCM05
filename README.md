@@ -46,6 +46,8 @@ Más allá del código, así es como abordo los proyectos y desafíos:
 * **Bases de Datos:** PostgreSQL, SQLite
 * **Despliegue:** Render, GitHub Pages
 * **Herramientas:** Git, GitHub, VS Code, Trello, NPM, venv/virtualenv
+* * **Cloud Services:** **AWS S3** (Object Storage)
+
 
 ### ✨ Conocimientos en Frontend
 
