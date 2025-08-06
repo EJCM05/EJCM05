@@ -1,6 +1,6 @@
 # 🛡️ Eber Colmenares – Backend Developer
 
-![Banner](./assets/banner-eber-colmenares.png)
+![Banner](https://i.postimg.cc/pdWc839w/image-1754447832435.jpg)
 
 ---
 
