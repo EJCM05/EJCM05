@@ -8,19 +8,17 @@
 
 > “No hablar de ideas, hablar de problemas.”
 
-Construyo sistemas desde el backend con lógica clara, documentación trazable y enfoque minimalista. Mis entregas combinan funcionalidad, eficiencia y presentación visual precisa. Todo parte de la base de datos y llega hasta propuestas entendibles para cualquier cliente técnico o no técnico.
-
+Construyo sistemas desde el backend con lógica clara, documentación trazable y enfoque minimalista. Mis entregas combinan funcionalidad, eficiencia y presentación visual precisa. Todo parte de la base de datos y llega hasta propuestas entendibles para cualquier cliente técnico o no técnico. Aunque Tengo preferencia por el Backend tambien manejo un framework de frontend que me ayuda con el manejo de interfaz para los usuarios.
 ---
 
 ## 📦 Stack Actual
 
 - **Lenguajes:** Python · JavaScript · HTML · CSS · Bash  
-- **Frameworks:** Django · DRF · FastAPI · Flask  
-- **Bases de Datos:** PostgreSQL · SQLite  
+- **Frameworks:** Django · DRF · FastAPI · Flask · Vue  
+- **Bases de Datos:** PostgreSQL · SQLite · IndexDB 
 - **Despliegue:** Render · GitHub Pages · semi-hosted  
-- **Herramientas:** Git · VS Code · Trello · venv · NPM  
+- **Herramientas:** Git · VS Code · Trello · venv · NPM · Capacitor  
 - **Cloud:** AWS S3
-
 ---
 
 ## 🔧 Habilidades Técnicas
@@ -29,7 +27,6 @@ Construyo sistemas desde el backend con lógica clara, documentación trazable y
 - Autenticación JWT y buenas prácticas OWASP  
 - Modelado de datos relacional auditable  
 - Documentación profesional escalable y visual  
-- CI/CD con control en cada etapa  
 - Flujo de trabajo claro con Kanban (Trello)
 
 ---
