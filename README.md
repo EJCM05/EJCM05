@@ -14,11 +14,13 @@ Construyo sistemas desde el backend con lógica clara, documentación trazable y
 ## 📦 Stack Actual
 
 - **Lenguajes:** Python · JavaScript · HTML · CSS · Bash  
-- **Frameworks:** Django · DRF · FastAPI · Flask · Vue  
+- **Frameworks:** Django · DJRF · FastAPI · Flask · Vue  
 - **Bases de Datos:** PostgreSQL · SQLite · IndexDB 
 - **Despliegue:** Render · GitHub Pages · semi-hosted  
 - **Herramientas:** Git · VS Code · Trello · venv · NPM · Capacitor  
-- **Cloud:** AWS S3
+- **Cloud:** AWS-S3
+- **Servicios (BaaS)**: Supabase
+  
 ---
 
 ## 🔧 Habilidades Técnicas
@@ -38,7 +40,7 @@ Construyo sistemas desde el backend con lógica clara, documentación trazable y
 - Diseño de patrones backend  
 - Auditorías básicas OWASP  
 - Automatización con Nmap (educativo)
-
+- Red Team
 ---
 
 ## ⚙️ Filosofía de Trabajo
@@ -53,19 +55,22 @@ Construyo sistemas desde el backend con lógica clara, documentación trazable y
 
 ## 🛠️ Proyectos
 
-### 🔥 [Sistema de Gestión Bomberos](https://cuerpobomberossc.com)  
+### [Sistema de Gestión Bomberos](https://cuerpobomberossc.com)  
 Modular, funcional, desplegado con Render. PostgreSQL, control de rutas, estructura por apps.
 
-### 📚 [Blog con Django](https://github.com/EJCM05/Blog-Spot)  
+### [Blog con Django](https://github.com/EJCM05/Blog-Spot)  
 CRUD completo, CBVs, autenticación, diseño limpio y bootstrap responsive.
 
-### 📡 [API REST DRF](https://github.com/EJCM05/DRF-API-CRUD-DJANGO)  
+### [API REST DRF](https://github.com/EJCM05/DRF-API-CRUD-DJANGO)  
 Base sólida para JWT, routers automáticos y documentación clara.
 
-### 💻 [App Tkinter MVC](https://github.com/EJCM05/ProyectoSocioTecnologico-Trayecto-2.git)  
+### [Generador de QR]()  
+Un BaaS desarrollado con Vue.js y supabase, la cual genera codigosQr con informacion persistente contiene una base de datos postgresSQL
+
+### [App Tkinter MVC](https://github.com/EJCM05/ProyectoSocioTecnologico-Trayecto-2.git)  
 Aplicación educativa con SQLite, arquitectura MVC y propósito real.
 
-### 🧩 [Repositorio Técnico Principal](https://github.com/EJCM05/EJCM05)  
+### [Repositorio Técnico Principal](https://github.com/EJCM05/EJCM05)  
 Mi espacio central: proyectos, cápsulas, documentación y contacto.
 
 ---
