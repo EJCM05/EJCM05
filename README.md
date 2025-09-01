@@ -1,9 +1,5 @@
 # 🛡️ EJCM
-
-![Banner](https://i.postimg.cc/pdWc839w/image-1754447832435.jpg)
-
 ---
-
 ## 🎯 Pensamiento Técnico
 
 > “No hablar de ideas, hablar de problemas.”
