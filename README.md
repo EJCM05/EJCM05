@@ -56,9 +56,6 @@ CRUD completo, CBVs, autenticación, diseño limpio y bootstrap responsive.
 ### [API REST DRF](https://github.com/EJCM05/DRF-API-CRUD-DJANGO)  
 Base sólida para JWT, routers automáticos y documentación clara.
 
-### [Generador de QR](https://github.com/EJCM05/VueAppQrGeneratorSupabase.git)  
-Un BaaS desarrollado con Vue.js y supabase, la cual genera codigosQr con informacion persistente contiene una base de datos postgresSQL
-
 ### [App Tkinter MVC](https://github.com/EJCM05/ProyectoSocioTecnologico-Trayecto-2.git)  
 Aplicación educativa con SQLite, arquitectura MVC y propósito real.
 
