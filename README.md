@@ -1,8 +1,4 @@
-# 🛡️ EJCM
----
-## 🎯 Pensamiento Técnico
-
-> “No hablar de ideas, hablar de problemas.”
+“No hablar de ideas, hablar de problemas.”
 
 Construyo sistemas desde el backend con lógica clara, documentación trazable y enfoque minimalista. Mis entregas combinan funcionalidad, eficiencia y presentación visual precisa. Todo parte de la base de datos y llega hasta propuestas entendibles para cualquier cliente técnico o no técnico. Aunque Tengo preferencia por el Backend tambien manejo un framework de frontend que me ayuda con el manejo de interfaz para los usuarios.
 ---
