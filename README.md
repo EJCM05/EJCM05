@@ -1,18 +1,6 @@
 🧠 Eber Colmenares – Desarrollador Híbrido
 
-> No hablo de ideas. Hablo de problemas. 
- 
-> Diseño herramientas vivas, no sistemas genéricos.  
-
-> Construyo desde el backend con lógica clara, documentación trazable y enfoque minimalista. 
- 
-> Mis entregas combinan funcionalidad, eficiencia y presentación visual precisa.  
-
-> Todo parte de la base de datos y llega hasta propuestas entendibles para cualquier cliente, técnico o no técnico.  
-
-> Aunque tengo preferencia por el backend, también manejo frameworks de frontend que me permiten crear interfaces funcionales y adaptadas. 
- 
-> Me identifico como desarrollador híbrido: integro diseño, estrategia, intuición y comunicación para crear soluciones modulares que resuelven problemas reales sin añadir ruido.
+> No hablo de ideas. Hablo de problemas.Diseño herramientas vivas, no sistemas genéricos, construyo desde el backend con lógica clara, documentación trazable y enfoque minimalista. Todo parte de la base de datos y llega hasta propuestas entendibles para cualquier cliente, técnico o no técnico. Aunque tengo preferencia por el backend, también manejo frameworks de frontend que me permiten crear interfaces funcionales y adaptadas. Me identifico como desarrollador híbrido: integro diseño, estrategia, intuición y comunicación para crear soluciones modulares que resuelven problemas reales sin añadir ruido.
 
 ---
 
@@ -106,7 +94,7 @@ TSU en Informática · UPTAIET Táchira · 2024
 - 🐙 GitHub: github.com/EJCM05  
 - 📷 Instagram: @ebercolmenares  
 - 📺 YouTube: Canal From Computing
-
+- $ Empres: Hoat soluciones tech
 ---
 
 > Documentar, construir y presentar sistemas que se entienden desde adentro: eso es backend.
