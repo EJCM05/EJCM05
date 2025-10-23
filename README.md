@@ -8,13 +8,13 @@ Stack Actual:
 
 - Lenguajes: Python · JavaScript · HTML · CSS · Bash  
 
-- Frameworks: Django · DJRF · FastAPI · Flask · Vue  
+- Frameworks: Django · DJRF · FastAPI · Vue · Svelte  
 
 - Bases de Datos: PostgreSQL · SQLite · IndexDB  
 
-- Despliegue: Render · GitHub Pages · semi-hosted 
+- Despliegue: Render · GitHub Pages · semi-hosted · Vercel · Netlify 
  
-- Herramientas: Git · VS Code · Trello · venv · NPM · Capacitor · OneSignal
+- Herramientas: Git · Trello · Capacitor · OneSignal
 
 - Cloud: AWS-S3  
 
