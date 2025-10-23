@@ -1,3 +1,8 @@
+<div align="center">
+    <img src="https://i.postimg.cc/xTwjfCJw/banner-EJCM.png" width="100%">
+</div>
+
+
 # Eber Colmenares – Desarrollador Híbrido & Especialista en Backend
 
 > Diseño herramientas vivas, no sistemas genéricos. Construyo desde el backend con lógica clara y un enfoque minimalista, resolviendo problemas reales sin añadir ruido.
