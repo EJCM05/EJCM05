@@ -1,10 +1,10 @@
-🧠 Eber Colmenares – Desarrollador Híbrido
+Eber Colmenares – Desarrollador Híbrido || Especialista en Backend
 
 > No hablo de ideas. Hablo de problemas.Diseño herramientas vivas, no sistemas genéricos, construyo desde el backend con lógica clara, documentación trazable y enfoque minimalista. Todo parte de la base de datos y llega hasta propuestas entendibles para cualquier cliente, técnico o no técnico. Aunque tengo preferencia por el backend, también manejo frameworks de frontend que me permiten crear interfaces funcionales y adaptadas. Me identifico como desarrollador híbrido: integro diseño, estrategia, intuición y comunicación para crear soluciones modulares que resuelven problemas reales sin añadir ruido.
 
 ---
 
-📦 Stack Actual
+Stack Actual:
 
 - Lenguajes: Python · JavaScript · HTML · CSS · Bash  
 
@@ -22,7 +22,7 @@
 
 ---
 
-🔧 Habilidades Técnicas
+Habilidades Técnicas:
 
 - APIs RESTfull y arquitecturas monolíticas. 
 - Autenticación JWT y buenas prácticas OWASP.  
@@ -32,7 +32,7 @@
 
 ---
 
-🧪 Exploración Continua
+Exploración Continua:
 
 - Pruebas con pytest y coverage  
 - Docker & contenedores  
@@ -43,7 +43,7 @@
 
 ---
 
-⚙️ Filosofía de Trabajo
+Filosofía de Trabajo:
 
 - Backend como punto de partida técnico y estratégico. 
 
@@ -59,7 +59,7 @@
 
 ---
 
-🛠️ Proyectos
+Proyectos:
 
 Sistema de Gestión Bomberos
 Modular, funcional, desplegado con Render. PostgreSQL, control de rutas, estructura por apps.
@@ -82,19 +82,19 @@ Envío de reportes de emergencias con respuesta inmediata para el cuerpo de bomb
 
 ---
 
-🎓 Formación
+Formación:
 
 TSU en Informática · UPTAIET Táchira · 2024
 
 ---
 
-📬 Contacto
+Contacto:
 
-- 📧 Email: ebercolmenares_11@hotmail.com  
-- 🐙 GitHub: github.com/EJCM05  
-- 📷 Instagram: @ebercolmenares  
-- 📺 YouTube: Canal From Computing
-- $ Empres: Hoat soluciones tech
+- Email: ebercolmenares_11@hotmail.com  
+- GitHub: github.com/EJCM05  
+- Instagram: @ebercolmenares  
+- YouTube: Canal From Computing
+- Empresa: Hoat soluciones tech
 ---
 
 > Documentar, construir y presentar sistemas que se entienden desde adentro: eso es backend.
