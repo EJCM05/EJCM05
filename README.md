@@ -66,10 +66,10 @@
 
 ### Proyectos:
 
-Sistema de Gestión Bomberos
+Sistema de Gestión Bomberos - Django
 Modular, funcional, desplegado con Render. PostgreSQL, control de rutas, estructura por apps.
 
-Blog con Django
+Blog - Django
 CRUD completo, CBVs, autenticación, diseño limpio y bootstrap responsive.
 
 API REST DJRF
@@ -78,11 +78,14 @@ Base sólida para JWT, routers automáticos y documentación clara.
 App Tkinter MVC
 Aplicación educativa con SQLite, arquitectura MVC y propósito real.
 
-Repositorio Técnico Principal
+Repositorio Técnico Principal - Vue
 Mi espacio central: proyectos, cápsulas, documentación y contacto.
 
-Aplicación De Emergencias
+Aplicación De Emergencias - Vue
 Envío de reportes de emergencias con respuesta inmediata para el cuerpo de bomberos. Incluyendo notificaciones push mediante onesignals. 
+
+PWA - Asistente De refrigeracion - SvelteKit
+Un poderoso asistente implementando la Api De gemini-2.5-flash, para la ayuda tecnica a personas en el ambito de la refrigeracion domestica e industrial.
 
 Conversor IMG-a-PDF (PWA)
 Solución (FastAPI) para un problema de UX (cero anuncios).
@@ -102,7 +105,7 @@ TSU en Informática · UPTAIET Táchira · 2024
 - Email: ebercolmenares_11@hotmail.com  
 - GitHub: github.com/EJCM05  
 - Instagram: @ebercolmenares  
-- YouTube: Canal From Computing
+- YouTube: From Computing
 - Empresa: Hoat soluciones Tech 
 ---
 
