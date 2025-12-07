@@ -3,11 +3,10 @@
 </div>
 
 
-# Eber Colmenares – Desarrollador Híbrido & Especialista en Backend
+# Eber Colmenares – Desarrollador FullStack & Especialista en Backend
 
-> Diseño herramientas vivas, no sistemas genéricos. Construyo desde el backend con lógica clara y un enfoque minimalista, resolviendo problemas reales sin añadir ruido.
+> Diseño herramientas vivas, no sistemas genéricos. Construyo desde el backend con lógica clara y un enfoque minimalista, resolviendo problemas reales sin ruido.
 > Mi trabajo es traducir problemas en soluciones, desde la base de datos hasta una propuesta entendible para cualquier cliente, técnico o no.
-> 
 ---
 
 ### Stack Actual:
@@ -45,6 +44,7 @@
 -   Patrones de Diseño Backend
 -   Auditorías OWASP
 -   Automatización
+-   n8n
 
 ---
 
