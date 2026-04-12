@@ -2,115 +2,46 @@
     <img src="https://i.postimg.cc/xTwjfCJw/banner-EJCM.png" width="100%">
 </div>
 
+# Eber Colmenares
+### *Systems Architect | Software & Hardware Engineer*
 
-# Eber Colmenares – Desarrollador FullStack & Especialista en Backend
-
-> Diseño herramientas vivas, no sistemas genéricos. Construyo desde el backend con lógica clara y un enfoque minimalista, resolviendo problemas reales sin ruido.
-> Mi trabajo es traducir problemas en soluciones, desde la base de datos hasta una propuesta entendible para cualquier cliente, técnico o no.
----
-
-### Stack Actual:
-
-- Lenguajes: Python · JavaScript · HTML · CSS · Bash  
-
-- Frameworks: Django · DRF · FastAPI · Vue · SvelteKit  
-
-- Bases de Datos: PostgreSQL · SQLite · IndexDB  
-
-- Despliegue: Render · GitHub Pages · semi-hosted · Vercel · Netlify 
- 
-- Herramientas: Git · Trello · Capacitor · OneSignal
-
-- Cloud: AWS-S3  
-
-- Servicios (BaaS): Supabase
+**No escribo código para llenar repositorios. Construyo soluciones para eliminar problemas.** Mi enfoque es la **Navaja de Ockham**: la solución más simple suele ser la correcta. Integro software de alto rendimiento con lógica de hardware y ciberseguridad para crear sistemas que otros consideran imposibles.
 
 ---
 
-### Habilidades Técnicas:
+### 🛠 The Core Stack
+*Optimización sobre ruido. Funcionalidad sobre estética.*
 
-- APIs RESTful y arquitecturas monolíticas. 
-- Autenticación JWT y buenas prácticas OWASP.  
-- Modelado de datos relacional auditable.  
-- Documentación profesional escalable y visual. 
-- Flujo de trabajo claro con Kanban (Trello). 
-
----
-
-### Exploración Continua:
-
--   Pruebas (pytest)
--   Docker & Contenedores
--   Patrones de Diseño Backend
--   Auditorías OWASP
--   Automatización
--   n8n
+- **Backend:** Python (Django, FastAPI) • PostgreSQL • Supabase
+- **Frontend & Mobile:** SvelteKit • HTMX • React Native (Expo)
+- **Infrastructure:** Linux (LMDE/MX) • Bash Automation • Docker
+- **Physical Layer:** Electrónica Aplicada • IoT • Sistemas de Refrigeración
 
 ---
 
-### Filosofía de Trabajo:
+### 🚀 Featured Systems
+*Proyectos que resuelven realidades, no tutoriales.*
 
-- Backend como punto de partida técnico y estratégico. 
-
-- MVP funcional como forma de validar valor real. 
-
-- Modularidad con propósito: cada componente justifica su existencia. 
-
-- Documentación como entrega técnica, no como adorno. 
-
-- Branding técnico en cada README, cláusula y cápsula visual. 
- 
-- Diseño emocional: cada herramienta debe resonar con quien la usa. 
+- **[Refri-Asistente](https://github.com/EJCM05/refri-asistente):** PWA de diagnóstico industrial integrando IA y termodinámica.
+- **[S.O.S Bomberos](https://github.com/EJCM05/bomberos-app):** Arquitectura de misión crítica para reportes de emergencia en tiempo real.
+- **[SaaS Multi-tenant](https://github.com/EJCM05/rifas-saas):** Gestión masiva de rifas y logística con Django + HTMX.
+- **[Tooling]:** Convertidores de medios y automatización de procesos sin intermediarios.
 
 ---
 
-### Proyectos:
+### 🧠 Philosophy
+> "Si un componente no añade valor, es una vulnerabilidad."
 
-Sistema de Gestión Bomberos - Django
-Modular, funcional, desplegado con Render. PostgreSQL, control de rutas, estructura por apps.
-
-Blog - Django
-CRUD completo, CBVs, autenticación, diseño limpio y bootstrap responsive.
-
-API REST DJRF
-Base sólida para JWT, routers automáticos y documentación clara.
-
-App Tkinter MVC
-Aplicación educativa con SQLite, arquitectura MVC y propósito real.
-
-Repositorio Técnico Principal - Vue
-Mi espacio central: proyectos, cápsulas, documentación y contacto.
-
-Aplicación De Emergencias - Vue
-Envío de reportes de emergencias con respuesta inmediata para el cuerpo de bomberos. Incluyendo notificaciones push mediante onesignals. 
-
-PWA - Asistente De refrigeracion - SvelteKit
-Un poderoso asistente implementando la Api De gemini-2.5-flash, para la ayuda tecnica a personas en el ambito de la refrigeracion domestica e industrial.
-
-Conversor IMG-a-PDF (PWA)
-Solución (FastAPI) para un problema de UX (cero anuncios).
-[Deploy](https://convert-image-to-pdf.onrender.com)
-[Repo](https://github.com/EJCM05/convert-image-to-pdf)
+Entiendo la tecnología como un todo: desde el flujo de electrones en una placa hasta la respuesta de una API de milisegundos. Mi objetivo es la **eficiencia absoluta**.
 
 ---
 
-### Formación:
-
-TSU en Informática · UPTAIET Táchira · 2024
-
----
-
-### Contacto:
-
-- Email: ebercolmenares_11@hotmail.com  
-- GitHub: github.com/EJCM05  
-- Instagram: @ebercolmenares  
-- YouTube: From Computing
-- Empresa: Hoat soluciones Tech 
----
-
-> Documentar, construir y presentar sistemas que se entienden desde adentro: eso es backend.
-  
-> Diseñar herramientas que se adaptan al usuario: eso es ser híbrido.
+### 📡 Connection
+- **Founder:** [HOAT Soluciones Tech](https://hoat.tech)
+- **Content:** [From Computing](https://youtube.com/c/fromcomputing)
+- **Terminal:** `ebercolmenares_11@hotmail.com`
 
 ---
+<div align="center">
+    <sub>"The world is a system. I just help it run better."</sub>
+</div>
