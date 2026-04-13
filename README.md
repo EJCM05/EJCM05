@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.postimg.cc/xTwjfCJw/banner-EJCM.png" width="100%">
+    <img src="https://i.postimg.cc/WbtrN25c/Image-Text-Logo.jpg" width="100%">
 </div>
 
 # Eber Colmenares
