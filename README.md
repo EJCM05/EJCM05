@@ -5,7 +5,7 @@
 # Eber Colmenares
 ### *Systems Architect | Software & Hardware Engineer*
 
-**No escribo código para llenar repositorios. Construyo soluciones para eliminar problemas.** Mi enfoque es la **Navaja de Ockham**: la solución más simple suele ser la correcta. Integro software de alto rendimiento con lógica de hardware y ciberseguridad para crear sistemas que otros consideran imposibles.
+**No escribo código para llenar repositorios. Construyo soluciones para eliminar problemas.** Mi enfoque es la **Navaja de Ockham**: la solución más simple suele ser la correcta. Integro software de alto rendimiento con lógica de hardware y ciberseguridad para crear sistemas de alta complejidad técnica.
 
 ---
 
