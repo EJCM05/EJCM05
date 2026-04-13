@@ -31,7 +31,7 @@
 ### 📡 Estrategia & Contacto
 Actualmente impulsando la tecnología desde **HOAT Soluciones Tech**. Busco proyectos donde la complejidad técnica requiera una visión multidisciplinaria (Software + Hardware + Seguridad).
 
-- **Directo:** [Tu-Nuevo-Correo@dominio.com]
+- **Directo:** [ebercolmenares_11@hotmail.com]
 - **YouTube:** [From Computing](https://youtube.com/c/fromcomputing) — *Donde documento la lógica detrás de la técnica.*
 
 ---
