@@ -3,45 +3,38 @@
 </div>
 
 # Eber Colmenares
-### *Systems Architect | Software & Hardware Engineer*
+### Systems Architect | Software, Hardware & Security
 
-**No escribo código para llenar repositorios. Construyo soluciones para eliminar problemas.** Mi enfoque es la **Navaja de Ockham**: la solución más simple suele ser la correcta. Integro software de alto rendimiento con lógica de hardware y ciberseguridad para crear sistemas de alta complejidad técnica.
-
----
-
-### 🛠 The Core Stack
-*Optimización sobre ruido. Funcionalidad sobre estética.*
-
-- **Backend:** Python (Django, FastAPI) • PostgreSQL • Supabase
-- **Frontend & Mobile:** SvelteKit • HTMX • React Native (Expo)
-- **Infrastructure:** Linux (LMDE/MX) • Bash Automation • Docker
-- **Physical Layer:** Electrónica Aplicada • IoT • Sistemas de Refrigeración
+**Ingeniero de soluciones enfocado en la eficiencia absoluta.** Mi trabajo empieza donde termina la teoría y comienza la realidad física. Aplico la **Navaja de Ockham** para reducir la complejidad, eliminar el ruido y construir sistemas que funcionan, punto.
 
 ---
 
-### 🚀 Featured Systems
-*Proyectos que resuelven realidades, no tutoriales.*
+### 📈 Impacto Real
+*No solo escribo código, resuelvo problemas de negocio y logística:*
 
-- **[Refri-Asistente](https://github.com/EJCM05/refri-asistente):** PWA de diagnóstico industrial integrando IA y termodinámica.
-- **[S.O.S Bomberos](https://github.com/EJCM05/bomberos-app):** Arquitectura de misión crítica para reportes de emergencia en tiempo real.
-- **[SaaS Multi-tenant](https://github.com/EJCM05/rifas-saas):** Gestión masiva de rifas y logística con Django + HTMX.
-- **[Tooling]:** Convertidores de medios y automatización de procesos sin intermediarios.
-
----
-
-### 🧠 Philosophy
-> "Si un componente no añade valor, es una vulnerabilidad."
-
-Entiendo la tecnología como un todo: desde el flujo de electrones en una placa hasta la respuesta de una API de milisegundos. Mi objetivo es la **eficiencia absoluta**.
+- **Emergencias (Bomberos SC):** Reduje los tiempos de respuesta mediante una arquitectura PWA/API de misión crítica con notificaciones push en tiempo real.
+- **Eficiencia Industrial (Refri-Asistente):** Digitalicé el diagnóstico termodinámico mediante una PWA con IA, eliminando la necesidad de manuales físicos en campo.
+- **Escalabilidad (SaaS de Rifas):** Diseñé un motor multi-tenant capaz de gestionar transacciones masivas con una carga mínima de servidor mediante Django + HTMX.
 
 ---
 
-### 📡 Connection
-- **Founder:** [HOAT Soluciones Tech](https://hoat.tech)
-- **Content:** [From Computing](https://youtube.com/c/fromcomputing)
-- **Terminal:** `ebercolmenares_11@hotmail.com`
+### 🛠 The Expert Stack
+*Selección táctica de herramientas para alto rendimiento.*
+
+- **Sistemas:** Linux (LMDE/MX) • Automatización Bash • Docker
+- **Desarrollo:** Python (FastAPI/Django) • SvelteKit • HTMX • PostgreSQL
+- **Hardware & IoT:** Electrónica de potencia • Diagnóstico de circuitos • Microcontroladores
+- **Seguridad:** Auditoría de aplicaciones web • Hardening de servidores • OWASP Standards
+
+---
+
+### 📡 Estrategia & Contacto
+Actualmente impulsando la tecnología desde **HOAT Soluciones Tech**. Busco proyectos donde la complejidad técnica requiera una visión multidisciplinaria (Software + Hardware + Seguridad).
+
+- **Directo:** [Tu-Nuevo-Correo@dominio.com]
+- **YouTube:** [From Computing](https://youtube.com/c/fromcomputing) — *Donde documento la lógica detrás de la técnica.*
 
 ---
 <div align="center">
-    <sub>"The world is a system. I just help it run better."</sub>
+    <sub>"Minimalismo no es falta de algo, es la cantidad perfecta de todo."</sub>
 </div>
