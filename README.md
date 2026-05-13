@@ -1,40 +1,39 @@
-<div align="center">
-    <img src="https://i.postimg.cc/WbtrN25c/Image-Text-Logo.jpg" width="100%">
-</div>
+# Eber J. Colmenares M.
 
-# Eber Colmenares
-### Systems Architect | Software, Hardware & Security
+**Full-Stack Developer**
+*Del silicio al servidor.*
 
-**Ingeniero de soluciones enfocado en la eficiencia absoluta.** Mi trabajo empieza donde termina la teoría y comienza la realidad física. Aplico la **Navaja de Ockham** para reducir la complejidad, eliminar el ruido y construir sistemas que funcionan, punto.
+* **Linkedin:** [https://www.linkedin.com/in/eber-colmenares/]
+* **Github:** EJCM05
+* **YouTube:** [From Computing]
 
----
+## Perfil
+Ingeniero en informática. Especialista en desarrollo de software, electrónica y seguridad web, con capacidad para integrar sistemas digitales con infraestructura fisica y logica.
 
-### 📈 Impacto Real
-*No solo escribo código, resuelvo problemas de negocio y logística:*
+## Experiencia Laboral
 
-- **Emergencias (Bomberos SC):** Reduje los tiempos de respuesta mediante una arquitectura PWA/API de misión crítica con notificaciones push en tiempo real.
-- **Eficiencia Industrial (Refri-Asistente):** Digitalicé el diagnóstico termodinámico mediante una PWA con IA, eliminando la necesidad de manuales físicos en campo.
-- **Escalabilidad (SaaS de Rifas):** Diseñé un motor multi-tenant capaz de gestionar transacciones masivas con una carga mínima de servidor mediante Django + HTMX.
+* **Cuerpo de Bomberos San Cristóbal** | *Desarrollador* | 2024 – Actualidad
+    * Desarrollo de scripts de automatización para el análisis de procedimientos y gestión operativa utilizando **Python (Pandas, NumPy, Matplotlib)**.
+    * Implementación de una arquitectura híbrida con **Django y REST Framework**, incluyendo autenticación JWT y puntos de enlace para aplicaciones móviles internas.
+    * Optimización del flujo de datos y reportes técnicos desplegados en entornos de producción.
 
----
+* **Graphic Studio Tattoo** | *Full-Stack Developer* | 2025
+    * Diseño y despliegue de una **PWA con SvelteKit 5** para la gestión integral de citas, artistas y ventas.
+    * Implementación de **Supabase (BaaS)** con políticas de seguridad RLS y gestión de almacenamiento.
+    * Desarrollo de un dashboard de métricas para la toma de decisiones comerciales.
 
-### 🛠 The Expert Stack
-*Selección táctica de herramientas para alto rendimiento.*
+## Proyectos Destacados
 
-- **Sistemas:** Linux (LMDE/MX) • Automatización Bash • Docker
-- **Desarrollo:** Python (FastAPI/Django) • SvelteKit • HTMX • PostgreSQL
-- **Hardware & IoT:** Electrónica de potencia • Diagnóstico de circuitos • Microcontroladores
-- **Seguridad:** Auditoría de aplicaciones web • Hardening de servidores • OWASP Standards
+* **Refri-Asistente**: Herramienta de diagnóstico para refrigeración industrial y doméstica. Desarrollada con **Svelte 5** e integración de la **API de Gemini** para consultas en tiempo real. Formato PWA.
+* **Arbitros CAIFT**: Monolito modular desarrollado en **Django** para la gestión de ligas deportivas (jugadores, nómina y partidos). Reemplazo de infraestructura legacy por una solución moderna de uso local.
+* **From Computing (YouTube)**: Divulgación de ingeniería, electrónica y programación. Creación de contenido orientado a problemas reales.
 
----
+## Habilidades Técnicas
 
-### 📡 Estrategia & Contacto
-Actualmente impulsando la tecnología desde **HOAT Soluciones Tech**. Busco proyectos donde la complejidad técnica requiera una visión multidisciplinaria (Software + Hardware + Seguridad).
+* **Software**: Python (Django, FastAPI), JavaScript (SvelteKit), SQL (PostgreSQL, SQLite), Docker & Docker Compose.
+* **Hardware**: Electrónica, Electricidad, Sistemas de Refrigeración, Microcontroladores (ESP32), Arduino.
+* **Sistemas y Seguridad**: Administración de Linux (LMDE), Web Pentesting, Red Team, Gestión de Redes.
 
-- **Directo:** [ebercolmenares_11@hotmail.com]
-- **YouTube:** [From Computing](https://youtube.com/c/fromcomputing) — *Donde documento la lógica detrás de la técnica.*
-
----
-<div align="center">
-    <sub>"Minimalismo no es falta de algo, es la cantidad perfecta de todo."</sub>
-</div>
+## Formación Académica
+* **Ingeniería en Informática**, UPTAI (Culminación prevista: 2026).
+* **T.S.U. en Informática**, UPTAI (2024).
