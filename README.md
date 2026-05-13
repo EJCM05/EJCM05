@@ -30,9 +30,9 @@ Ingeniero en informática. Especialista en desarrollo de software, electrónica 
 
 ## Habilidades Técnicas
 
-* **Software**: Python (Django, FastAPI), JavaScript (SvelteKit), SQL (PostgreSQL, SQLite), Docker & Docker Compose.
+* **Software**: Python (Django, FastAPI), JavaScript (SvelteKit, Expo/React Native), SQL (PostgreSQL, SQLite), Docker & Docker Compose.
 * **Hardware**: Electrónica, Electricidad, Sistemas de Refrigeración, Microcontroladores (ESP32), Arduino.
-* **Sistemas y Seguridad**: Administración de Linux (LMDE), Web Pentesting, Red Team, Gestión de Redes.
+* **Sistemas y Seguridad**: Linux (LMDE), Web Pentesting, Red Team, Gestión de Redes.
 
 ## Formación Académica
 * **Ingeniería en Informática**, UPTAI (Culminación prevista: 2026).
