@@ -1,36 +1,61 @@
-Hola. Si llegaste hasta aca es por que te interesa saber un poco mas sobre mi.
+# Hola, bienvenido a mi perfil
 
-Mi nombre es Eber colmenares, Ingeniero en informatica egresado del UPTAIET, San cristobal Tachira Venezuela.
+Si llegaste hasta acá es porque te interesa conocer un poco más sobre mi trayectoria y trabajo.
 
-Ahora bien, a que me dedico ? Como ingeniero en informatica tengo la capacidad de realizar la mayoria de trabajos en el ambito de la carrera, ya sea redes, programacion, lot, arduino, electricidad o electronica. Cuando tenia 15 años aprendi a reparar equipos de refrigeracion, aires acondicionados y todo lo que sea frio. Me encanta desarmar cosas, entender como funcionan, aprender algo nuevo, tener el criterio para saber si funciona o si se puede reparar.
+Soy **Eber Colmenares**, Ingeniero en Informática egresado de la Universidad Politécnica Territorial Agroindustrial del Estado Táchira (**UPTAIET**), ubicado en San Cristóbal, Táchira, Venezuela.
 
-Desde que tengo 8 años la programacion me llamo la atencion, el poder crear cosas desde 0, desde una herramienta basica hasta un sistema web complejo desplegado en produccion. Me sigo professionalizando y aprendiendo todos los dias para poder entregar trabajos de calidad. Tengo la corazonada que voy a hacer algo grande que va a revolucionar la industria. 
+---
 
-Mi stack de desarrollo:
+## Sobre mí
 
-En realidad es algo sencillo, no me gusta complicarme y no soy persona de memorizar las cosas, en realidad soy muy malo para eso (Se me olvidan las fechas de cunpleaños).
+Mi enfoque combina la ingeniería de software con habilidades prácticas en hardware y sistemas:
 
-Lenguajes de Programacion:
+* **Ingeniería :** Cuento con capacidad del desarrollo en múltiples áreas técnicas: arquitectura backend, redes, automatización, electrónica y electricidad. Desde los 15 años aprendí sobre sistemas de refrigeración. Me gusta entender el funcionamiento interno de las cosas, desarmar, reparar.
+* **código:** Empecé en la programación a los 17 años por la fascinación de construir desde cero, abarcando desde herramientas ligeras de uso diario hasta sistemas web institucionales y empresariales desplegados en producción.
+* **Enfoque:** Priorizo soluciones funcionales, optimizadas y directas, evitando la sobre-ingeniería y aplicando siempre las mejores prácticas.
+  
+---
 
--Python
--Javascript
--HTML
--CSS
+## Stack Tecnológico
 
-Los frameworks que uso: 
+### Lenguajes
+* Python
+* JavaScript
+* HTML5 / CSS3
+* SQL
 
--Bootstrap
--Sveltekit
--Django
--FastApi
--Expo
+### Frameworks y Herramientas Backend
+* Django / Django REST Framework
+* FastAPI
 
-Base de datos:
--PostgreSQL
--Sqlite
+### Frontend y Móvil
+* SvelteKit / HTMX
+* Bootstrap
+* Expo (React Native)
 
-Me llama la atencion el pentesting, por ello estoy practicando y aprendiendo para ejercer la profesion. 
+### Bases de Datos y Almacenamiento
+* PostgreSQL
+* SQLite
+* Supabase / Redis
 
-Si te preguntas por que me gusta manejar ese stack, por supuesto que adicional a eso uso muchas librerias, apis y bibliotecas adicionales para que me ayuden a ahorrar tiempo ante cualquier desarrollo. 
+### Infraestructura y Entorno
+* Linux (Debian / LMDE)
+* Docker / Docker Compose
+* Caddy
 
-Puedes comunicarte conmigo de diferentes formas. 
+---
+
+## Mi area de Aprendizaje
+
+* **Ciberseguridad y Pentesting:** Estudio y práctico constantemente en seguridad web (OWASP Top 10), análisis de redes y auditoría de vulnerabilidades.
+* **Hardware & IoT:** Prototipado con microcontroladores (ESP32, Arduino) y automatización de procesos mediante APIs y webhooks.
+* 
+---
+
+## Contacto
+
+Si deseas colaborar en un proyecto o conocer más de mis desarrollos:
+
+* **Ubicación:** San Cristóbal, Táchira, Venezuela
+* **LinkedIn:** [https://www.linkedin.com/in/eber-colmenares/]
+* **Portafolio / Web:** [https://ejcm05.github.io/portafolio-web/]
