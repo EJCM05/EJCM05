@@ -1,39 +1,36 @@
-# Eber J. Colmenares M.
+Hola. Si llegaste hasta aca es por que te interesa saber un poco mas sobre mi.
 
-**Full-Stack Developer**
-*Del silicio al servidor.*
+Mi nombre es Eber colmenares, Ingeniero en informatica egresado del UPTAIET, San cristobal Tachira Venezuela.
 
-* **Linkedin:** [https://www.linkedin.com/in/eber-colmenares/]
-* **Github:** EJCM05
-* **YouTube:** [From Computing]
+Ahora bien, a que me dedico ? Como ingeniero en informatica tengo la capacidad de realizar la mayoria de trabajos en el ambito de la carrera, ya sea redes, programacion, lot, arduino, electricidad o electronica. Cuando tenia 15 años aprendi a reparar equipos de refrigeracion, aires acondicionados y todo lo que sea frio. Me encanta desarmar cosas, entender como funcionan, aprender algo nuevo, tener el criterio para saber si funciona o si se puede reparar.
 
-## Perfil
-Ingeniero en informática. Especialista en desarrollo de software, electrónica y seguridad web, con capacidad para integrar sistemas digitales con infraestructura fisica y logica.
+Desde que tengo 8 años la programacion me llamo la atencion, el poder crear cosas desde 0, desde una herramienta basica hasta un sistema web complejo desplegado en produccion. Me sigo professionalizando y aprendiendo todos los dias para poder entregar trabajos de calidad. Tengo la corazonada que voy a hacer algo grande que va a revolucionar la industria. 
 
-## Experiencia Laboral
+Mi stack de desarrollo:
 
-* **Cuerpo de Bomberos San Cristóbal** | *Desarrollador* | 2024 – Actualidad
-    * Desarrollo de scripts de automatización para el análisis de procedimientos y gestión operativa utilizando **Python (Pandas, NumPy, Matplotlib)**.
-    * Implementación de una arquitectura híbrida con **Django y REST Framework**, incluyendo autenticación JWT y puntos de enlace para aplicaciones móviles internas.
-    * Optimización del flujo de datos y reportes técnicos desplegados en entornos de producción.
+En realidad es algo sencillo, no me gusta complicarme y no soy persona de memorizar las cosas, en realidad soy muy malo para eso (Se me olvidan las fechas de cunpleaños).
 
-* **Graphic Studio Tattoo** | *Full-Stack Developer* | 2025
-    * Diseño y despliegue de una **PWA con SvelteKit 5** para la gestión integral de citas, artistas y ventas.
-    * Implementación de **Supabase (BaaS)** con políticas de seguridad RLS y gestión de almacenamiento.
-    * Desarrollo de un dashboard de métricas para la toma de decisiones comerciales.
+Lenguajes de Programacion:
 
-## Proyectos Destacados
+-Python
+-Javascript
+-HTML
+-CSS
 
-* **Refri-Asistente**: Herramienta de diagnóstico para refrigeración industrial y doméstica. Desarrollada con **Svelte 5** e integración de la **API de Gemini** para consultas en tiempo real. Formato PWA.
-* **Arbitros CAIFT**: Monolito modular desarrollado en **Django** para la gestión de ligas deportivas (jugadores, nómina y partidos). Reemplazo de infraestructura legacy por una solución moderna de uso local.
-* **From Computing (YouTube)**: Divulgación de ingeniería, electrónica y programación. Creación de contenido orientado a problemas reales.
+Los frameworks que uso: 
 
-## Habilidades Técnicas
+-Bootstrap
+-Sveltekit
+-Django
+-FastApi
+-Expo
 
-* **Software**: Python (Django, FastAPI), JavaScript (SvelteKit, Expo/React Native), SQL (PostgreSQL, SQLite), Docker & Docker Compose.
-* **Hardware**: Electrónica, Electricidad, Sistemas de Refrigeración, Microcontroladores (ESP32), Arduino.
-* **Sistemas y Seguridad**: Linux (LMDE), Web Pentesting, Red Team, Gestión de Redes.
+Base de datos:
+-PostgreSQL
+-Sqlite
 
-## Formación Académica
-* **Ingeniería en Informática**, UPTAI (Culminación prevista: 2026).
-* **T.S.U. en Informática**, UPTAI (2024).
+Me llama la atencion el pentesting, por ello estoy practicando y aprendiendo para ejercer la profesion. 
+
+Si te preguntas por que me gusta manejar ese stack, por supuesto que adicional a eso uso muchas librerias, apis y bibliotecas adicionales para que me ayuden a ahorrar tiempo ante cualquier desarrollo. 
+
+Puedes comunicarte conmigo de diferentes formas. 
