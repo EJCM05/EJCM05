@@ -56,5 +56,7 @@ Mi enfoque combina la ingeniería de software con habilidades prácticas en hard
 Si deseas colaborar en un proyecto o conocer más de mis desarrollos:
 
 **Ubicación:** San Cristóbal, Táchira, Venezuela.
+
 **LinkedIn:** [Eber-Colmenares](https://www.linkedin.com/in/eber-colmenares/)
+
 **Portafolio:** [ejcm05.github.io/portafolio-web](https://ejcm05.github.io/portafolio-web/)
