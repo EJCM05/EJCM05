@@ -49,13 +49,12 @@ Mi enfoque combina la ingeniería de software con habilidades prácticas en hard
 
 * **Ciberseguridad y Pentesting:** Estudio y práctico constantemente en seguridad web (OWASP Top 10), análisis de redes y auditoría de vulnerabilidades.
 * **Hardware & IoT:** Prototipado con microcontroladores (ESP32, Arduino) y automatización de procesos mediante APIs y webhooks.
-* 
 ---
 
 ## Contacto
 
 Si deseas colaborar en un proyecto o conocer más de mis desarrollos:
 
-* **Ubicación:** San Cristóbal, Táchira, Venezuela
-* **LinkedIn:** [https://www.linkedin.com/in/eber-colmenares/]
-* **Portafolio / Web:** [https://ejcm05.github.io/portafolio-web/]
+**Ubicación:** San Cristóbal, Táchira, Venezuela
+**LinkedIn:** [Tu Nombre](https://www.linkedin.com/in/eber-colmenares/)
+**Portafolio:** [ejcm05.github.io/portafolio-web](https://ejcm05.github.io/portafolio-web/)
