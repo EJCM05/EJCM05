@@ -1,62 +1,32 @@
-# Hola, bienvenido a mi perfil
+# Eber J. Colmenares M.
+**Ingeniero en Informática | Desarrollador Backend**
 
-Si llegaste hasta acá es porque te interesa conocer un poco más sobre mi trayectoria y trabajo.
+Soy Ingeniero en Informática con un perfil orientado a la arquitectura backend, infraestructura y automatización. Cuento con una base técnica que abarca desde la lógica de servidor y bases de datos, hasta redes, electrónica de hardware y ciberseguridad. 
 
-Soy **Eber Colmenares**, Ingeniero en Informática egresado de la Universidad Politécnica Territorial Agroindustrial del Estado Táchira (**UPTAIET**), ubicado en San Cristóbal, Táchira, Venezuela.
-
----
-
-## Sobre mí
-
-Mi enfoque combina la ingeniería de software con habilidades prácticas en hardware y sistemas:
-
-* **Ingeniería :** Cuento con capacidad del desarrollo en múltiples áreas técnicas: arquitectura backend, redes, automatización, electrónica y electricidad. Desde los 15 años aprendí sobre sistemas de refrigeración. Me gusta entender el funcionamiento interno de las cosas, desarmar, reparar.
-* **código:** Empecé en la programación a los 17 años por la fascinación de construir desde cero, abarcando desde herramientas ligeras de uso diario hasta sistemas web institucionales y empresariales desplegados en producción.
-* **Enfoque:** Priorizo soluciones funcionales, optimizadas y directas, evitando la sobre-ingeniería y aplicando siempre las mejores prácticas.
-  
----
+Mi metodología de trabajo se centra en el análisis del problema para implementar, utilizando herramientas adecuadas para cada entorno y priorizando el rendimiento y la seguridad del código.
 
 ## Stack Tecnológico
 
-### Lenguajes
-* Python
-* JavaScript
-* HTML5 / CSS3
-* SQL
+*   **Lenguajes:** Python, JavaScript, SQL, Bash, C/C++.
+*   **Backend y APIs:** Django, Django REST Framework, FastAPI, Flask.
+*   **Bases de Datos:** PostgreSQL, SQLite, Redis, Supabase.
+*   **Frontend y PWA:** SvelteKit, HTMX, Bootstrap 5.
+*   **Infraestructura y Despliegue:** Docker, Docker Compose, Linux (Debian/LMDE), Caddy, Nginx, Render, Vercel.
+*   **Integraciones:** Evolutin API, Webhooks, Google Gemini API, WebSockets.
 
-### Frameworks y Herramientas Backend
-* Django / Django REST Framework
-* FastAPI
+## Proyectos Destacados
 
-### Frontend y Móvil
-* SvelteKit / HTMX
-* Bootstrap
-* Expo (React Native)
+*   **Sistema de Gestión Bomberil:** Arquitectura monolítica y modular para el control de emergencias, personal y flota de vehículos. Desarrollado con Django y PostgreSQL, contenedorizado con Docker y desplegado en un servidor VPS.
+*   **Plataforma multi-tenant para SaaS (Rifas):** Aplicación web escalable para la administración concurrente de sorteos. Integración de bases de datos relacionales, control de acceso y almacenamiento en la nube (AWS S3).
+*   **Sistemas Offline-First y PWA:** Desarrollo de aplicaciones como *Refri-Asistente*, empleando SvelteKit y bases de datos locales (Dexie.js/IndexedDB) para garantizar operabilidad sin conexión.
 
-### Bases de Datos y Almacenamiento
-* PostgreSQL
-* SQLite
-* Supabase / Redis
+## Áreas de Estudio y Práctica Continua
 
-### Infraestructura y Entorno
-* Linux (Debian / LMDE)
-* Docker / Docker Compose
-* Caddy
-
----
-
-## Mi area de Aprendizaje
-
-* **Ciberseguridad y Pentesting:** Estudio y práctico constantemente en seguridad web (OWASP Top 10), análisis de redes y auditoría de vulnerabilidades.
-* **Hardware & IoT:** Prototipado con microcontroladores (ESP32, Arduino) y automatización de procesos mediante APIs y webhooks.
----
+*   **Ciberseguridad:** Auditoría de aplicaciones web (OWASP Top 10), análisis de vulnerabilidades, inyección SQL y escaneo de redes (Nmap, Burp Suite).
+*   **Hardware y Automatización:** Prototipado y desarrollo con microcontroladores (ESP32, Arduino), integración de protocolos de comunicación inalámbrica (ESP-NOW) y electrónica aplicada.
 
 ## Contacto
 
-Si deseas colaborar en un proyecto o conocer más de mis desarrollos:
-
-**Ubicación:** San Cristóbal, Táchira, Venezuela.
-
-**LinkedIn:** [Eber-Colmenares](https://www.linkedin.com/in/eber-colmenares/)
-
-**Portafolio:** [ejcm05.github.io/portafolio-web](https://ejcm05.github.io/portafolio-web/)
+*   **Ubicación:** San Cristóbal, Táchira, Venezuela.
+*   **Email:** ebercolmenares_11@hotmail.com
+*   **LinkedIn:** [Eber Colmenares](https://www.linkedin.com/in/tu-enlace-aqui)
